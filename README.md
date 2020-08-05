@@ -1,8 +1,8 @@
 ### Hi there 👋
-![](/img/dp.png)
+![](https://media.giphy.com/media/JmVQ3FI93BYPYliYYV/giphy.gif)
 
   # I'm Sumit  #
-![](https://media.giphy.com/media/JmVQ3FI93BYPYliYYV/giphy.gif)
+![](/img/dp.png)
   ## I'm a Frontend Developer ##
 
 - 🔭 I’m currently exploring my interests
