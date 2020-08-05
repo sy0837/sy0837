@@ -2,6 +2,7 @@
 ![](https://media.giphy.com/media/JmVQ3FI93BYPYliYYV/giphy.gif)
 
   # I'm Sumit  #
+  ![](/img/dp.png)
   ## I'm a Frontend Developer ##
 
 - 🔭 I’m currently exploring my interests
