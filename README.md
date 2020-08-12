@@ -4,7 +4,7 @@
   # I'm Sumit  #
   <img src="https://github.com/sy0837/sy0837/raw/master/img/dp.png" width="120" height="120">
   
-  ## I'm a Frontend Developer 
+  ## I'm a Programmer/Web Developer 
   
 - 🔭 I’m currently exploring my interests
 - 🌱 I’m currently learning about INFORMATION SECURITY(enthusiast)
