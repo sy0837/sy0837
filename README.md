@@ -4,7 +4,7 @@
   # I'm Sumit  #
   <img src="https://github.com/sy0837/sy0837/raw/master/img/dp.png" width="120" height="120">
   
-  ## I'm a Programmer/Web Developer 
+  ## I'm a Software Engineer 
   
 - 🔭 Looking for an opportunity as SDE-1
 - 🌱 Intern as Highradius Corporation
