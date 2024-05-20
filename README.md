@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://media.giphy.com/media/JmVQ3FI93BYPYliYYV/giphy.gif)
 
   # I'm Sumit  #
   <img src="https://github.com/sy0837/sy0837/raw/master/img/dp.png" width="120" height="120">
